@@ -1,0 +1,354 @@
+Open Date,Close Date,Fix Time (days),Location,Stage,Impact,Patch Size (LoC),Change Entropy
+2024/12/18,2024/12/19,0,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,14,0
+2024/12/9,2024/12/9,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Undefined Behavior,126,0.4852
+2024/11/27,2024/11/28,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,83,0.5641
+2024/11/26,2024/11/27,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,3,0
+2024/11/22,2024/11/25,3,Compiler Infrastructure Issues,Compiler Midend Issues,Undefined Behavior,6,0.2348
+2024/11/21,2024/11/22,0,Compiler Infrastructure Issues,Compiler Midend Issues,Undefined Behavior,5,0
+2024/11/15,2024/12/10,24,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,580,0.1088
+2024/11/11,2025/2/13,94,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,52,0.7988
+2024/11/8,2024/11/11,3,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,19,0.6728
+2024/11/8,2024/11/9,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,53,0.6976
+2024/11/5,2024/11/6,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,7,0.372
+2024/11/4,2024/11/5,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,17,0.6081
+2024/11/1,2024/11/13,12,External Dependency Issues,Compiler Midend Issues,Development Issues,5,0
+2024/10/29,2024/10/29,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,56,0
+2024/10/23,2024/11/29,36,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,16,0.1081
+2024/10/23,2024/10/28,4,Compiler Infrastructure Issues,Compiler Frontend Issues,Wrong Output,46,0.4539
+2024/10/22,2024/10/23,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,67,0.9698
+2024/10/19,2024/10/20,0,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,14,0
+2024/10/18,2024/11/28,41,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,129,0.2128
+2024/10/10,2024/11/18,39,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,18,0.2966
+2024/10/8,2024/10/8,0,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,9,0
+2024/10/2,2024/10/16,13,External Dependency Issues,Compiler Midend Issues,Undefined Behavior,44,0
+2024/10/2,2024/10/3,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,11,0
+2024/9/30,2024/9/30,0,Compiler Infrastructure Issues,Compiler Midend Issues,Security Issues,5,0
+2024/9/26,2024/9/27,0,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,13,0
+2024/9/23,2024/10/18,24,Architecture Feature Issues,Runtime Issues,Wrong Output,99,0.1359
+2024/9/22,2024/10/3,10,External Dependency Issues,Compiler Backend Issues,Performance Issues,14,0
+2024/9/19,2024/9/19,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,29,0.4563
+2024/9/14,2024/9/27,12,External Dependency Issues,Compiler Backend Issues,Performance Issues,20,0.274
+2024/9/13,2024/9/23,9,External Dependency Issues,Compiler Backend Issues,Development Issues,30,0.7167
+2024/9/11,2024/9/11,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,30,0.4809
+2024/9/10,2024/9/10,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,40,0.798
+2024/9/9,2024/9/9,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,51,0.3942
+2024/9/8,2024/9/12,3,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,51,0.2925
+2024/9/6,2024/9/9,3,Compiler Infrastructure Issues,Compiler Backend Issues,Security Issues,56,0.4586
+2024/9/6,2025/2/12,159,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,42,0.9247
+2024/9/6,2024/9/11,5,External Dependency Issues,Compiler Backend Issues,Wrong Output,29,0.752
+2024/9/4,2024/10/8,33,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,2,0.2145
+2024/9/2,2024/9/5,2,Compiler Infrastructure Issues,Compiler Midend Issues,Compatibility Issues,12,0.3078
+2024/9/1,2024/9/4,3,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,9,0.1063
+2024/8/30,2024/8/30,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,9,0.0292
+2024/8/30,2024/10/1,31,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,5,0.1057
+2024/8/28,2024/8/29,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,66,0.767
+2024/8/26,2024/8/27,0,Compiler Infrastructure Issues,Compiler Backend Issues,Security Issues,4,0
+2024/8/26,2024/8/29,2,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,35,0.3572
+2024/8/23,2024/8/23,0,Compiler Infrastructure Issues,Compiler Midend Issues,Undefined Behavior,24,0.4973
+2024/8/14,2024/8/23,8,External Dependency Issues,Compiler Backend Issues,Wrong Output,85,0.6373
+2024/8/12,2024/8/12,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,126,0.8654
+2024/8/9,2024/8/14,5,External Dependency Issues,Compiler Frontend Issues,Wrong Output,324,0.8921
+2024/8/9,2024/8/13,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Wrong Output,143,0.5358
+2024/8/7,2024/8/8,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,156,0.7639
+2024/8/6,2024/11/12,97,Architecture Feature Issues,Compiler Midend Issues,Undefined Behavior,242,0.533
+2024/8/5,2024/10/31,87,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,75,0.4137
+2024/8/2,2024/11/11,100,Architecture Feature Issues,Compiler Midend Issues,Development Issues,26,0.3676
+2024/8/1,2024/8/9,7,External Dependency Issues,Compiler Backend Issues,Wrong Output,30,0.5889
+2024/8/1,2024/8/6,4,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,22,0.4942
+2024/8/1,2024/8/1,0,Compiler Infrastructure Issues,Compiler Backend Issues,Undefined Behavior,155,0.7888
+2024/8/1,2024/8/1,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,20,0.7684
+2024/7/29,2024/7/30,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,28,0.1591
+2024/7/29,2024/8/2,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,7,0.2484
+2024/7/28,2024/7/29,1,Compiler Infrastructure Issues,Compiler Frontend Issues,Wrong Output,184,0.6957
+2024/7/27,2024/7/28,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,19,0
+2024/7/27,2024/8/27,31,Architecture Feature Issues,Compiler Midend Issues,Compatibility Issues,51,0.5974
+2024/7/26,2024/7/27,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,15,0.3425
+2024/7/25,2024/7/26,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,34,0.7091
+2024/7/24,2024/7/25,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,4,0
+2024/7/23,2024/7/25,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,33,0.6008
+2024/7/23,2024/7/23,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,14,0.4514
+2024/7/20,2024/7/30,10,External Dependency Issues,Compiler Frontend Issues,Wrong Output,147,0.7609
+2024/7/18,2024/7/18,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,44,0.9049
+2024/7/11,2024/7/18,7,External Dependency Issues,Compiler Midend Issues,Performance Issues,16,0
+2024/7/10,2024/7/15,4,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,9,0.2386
+2024/7/5,2024/7/8,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,7,0.1434
+2024/7/5,2024/7/25,19,Architecture Feature Issues,Runtime Issues,Development Issues,22,0.4408
+2024/7/3,2024/7/9,6,External Dependency Issues,Compiler Midend Issues,Wrong Output,17,0.2618
+2024/7/2,2024/7/4,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,194,0
+2024/7/2,2024/7/5,2,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,9,0.0639
+2024/7/1,2024/7/22,21,Architecture Feature Issues,Compiler Midend Issues,Development Issues,11,0.341
+2024/7/1,2024/7/9,7,External Dependency Issues,Compiler Midend Issues,Wrong Output,12,0
+2024/6/26,2024/6/26,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,5,0.0933
+2024/6/26,2024/7/2,6,External Dependency Issues,Compiler Midend Issues,Wrong Output,58,0.4441
+2024/6/17,2024/7/1,13,External Dependency Issues,Runtime Issues,Wrong Output,7,0
+2024/6/5,2024/7/29,53,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,187,0.8827
+2024/6/4,2024/11/11,159,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,73,0.5429
+2024/6/3,2024/7/14,40,Architecture Feature Issues,Compiler Midend Issues,Security Issues,4,0
+2024/5/28,2024/7/15,47,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,17,0
+2024/5/20,2024/5/20,0,Compiler Infrastructure Issues,Compiler Backend Issues,Security Issues,32,0.6805
+2024/5/14,2024/7/17,63,Architecture Feature Issues,Compiler Backend Issues,Development Issues,133,0.3659
+2024/5/8,2024/7/17,70,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,28,0.0375
+2024/5/7,2024/5/7,0,Compiler Infrastructure Issues,Compiler Backend Issues,Undefined Behavior,30,0.3173
+2024/5/1,2024/5/21,20,External Dependency Issues,Compiler Midend Issues,Development Issues,3,0
+2024/4/30,2024/4/30,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,80,0
+2024/4/30,2024/4/30,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,2,0.6811
+2024/4/29,2024/7/17,78,Architecture Feature Issues,Compiler Midend Issues,Compatibility Issues,35,0.4566
+2024/4/23,2024/4/24,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,19,0
+2024/4/15,2024/4/16,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,39,0.9411
+2024/4/11,2024/4/12,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,56,0.7499
+2024/4/8,2024/7/17,99,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,162,0.5995
+2024/4/8,2024/4/11,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,20,0.4208
+2024/4/6,2024/4/16,9,External Dependency Issues,Compiler Midend Issues,Performance Issues,3,0
+2024/4/2,2024/4/16,14,External Dependency Issues,Compiler Midend Issues,Performance Issues,128,0.8662
+2024/3/25,2024/9/9,167,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,16,0.5474
+2024/3/20,2024/8/14,147,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,192,0.0379
+2024/3/19,2024/3/27,7,External Dependency Issues,Compiler Midend Issues,Performance Issues,16,0
+2024/3/15,2024/3/16,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,65,0
+2024/3/11,2024/3/13,2,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,31,0.8555
+2024/3/9,2024/3/11,2,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,9,0
+2024/3/8,2024/3/11,2,Compiler Infrastructure Issues,Compiler Frontend Issues,Undefined Behavior,74,0.7226
+2024/3/8,2024/3/9,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,1,0
+2024/3/7,2024/3/8,0,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,10,0
+2024/3/6,2024/3/7,1,Compiler Infrastructure Issues,Compiler Midend Issues,Security Issues,24,0.4068
+2024/3/4,2024/3/6,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,41,0.5229
+2024/3/2,2024/3/7,4,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,23,0.774
+2024/2/29,2024/5/2,62,Architecture Feature Issues,Compiler Frontend Issues,Undefined Behavior,5,0.0491
+2024/2/28,2024/3/3,4,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,46,0
+2024/2/20,2024/2/22,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,5,0
+2024/2/16,2024/2/16,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,39,0.5018
+2024/2/15,2024/2/15,0,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,23,0.3062
+2024/2/13,2024/2/29,15,External Dependency Issues,Compiler Midend Issues,Performance Issues,20,0.5794
+2024/2/13,2024/2/13,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,151,0.6734
+2024/2/8,2024/2/9,0,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,79,0.5645
+2024/2/8,2024/2/8,0,Compiler Infrastructure Issues,Compiler Midend Issues,Undefined Behavior,9,0
+2024/2/6,2024/2/8,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,3,0.1064
+2024/1/25,2024/2/8,13,External Dependency Issues,Compiler Backend Issues,Wrong Output,235,0.9366
+2024/1/25,2024/2/1,6,External Dependency Issues,Compiler Midend Issues,Wrong Output,468,0.6714
+2024/1/25,2024/1/27,1,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,9,0
+2024/1/19,2024/1/19,0,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,21,0.753
+2024/1/19,2024/1/19,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Compatibility Issues,5,0
+2024/1/16,2024/1/17,0,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,10,0.122
+2024/1/16,2024/1/22,5,External Dependency Issues,Compiler Midend Issues,Development Issues,461,0.9903
+2024/1/10,2024/1/10,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,31,0.5998
+2024/1/5,2024/1/5,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,21,0.2109
+2024/1/3,2025/1/27,390,Architecture Feature Issues,Compiler Backend Issues,Development Issues,37,0.5004
+2023/12/28,2024/1/4,6,External Dependency Issues,Compiler Backend Issues,Wrong Output,12,0.5356
+2023/12/27,2024/1/17,20,External Dependency Issues,Compiler Backend Issues,Wrong Output,76,0.5188
+2023/12/15,2023/12/18,2,Compiler Infrastructure Issues,Compiler Midend Issues,Compatibility Issues,143,0
+2023/12/15,2023/12/15,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,146,0.7868
+2023/12/3,2023/12/21,17,External Dependency Issues,Compiler Midend Issues,Security Issues,15,0.6701
+2023/11/30,2024/2/12,74,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,16,0
+2023/11/29,2023/12/5,6,External Dependency Issues,Compiler Midend Issues,Wrong Output,78,0.4973
+2023/11/26,2023/12/29,33,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,72,0.5946
+2023/11/24,2023/11/25,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,17,0.4574
+2023/11/13,2023/11/27,13,External Dependency Issues,Compiler Midend Issues,Wrong Output,15,0.232
+2023/11/9,2023/11/10,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,50,0.6546
+2023/10/27,2023/10/30,2,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,49,0
+2023/10/26,2023/10/26,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,44,0.7588
+2023/10/24,2023/10/24,0,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,51,0
+2023/10/18,2023/10/18,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,31,0.9208
+2023/10/16,2023/10/19,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,6,0
+2023/10/5,2023/10/8,3,Compiler Infrastructure Issues,Compiler Midend Issues,Security Issues,7,0.3744
+2023/9/27,2023/10/23,25,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,4,0
+2023/9/13,2023/9/14,1,Compiler Infrastructure Issues,Runtime Issues,Performance Issues,14,0.3994
+2023/9/8,2024/7/19,315,Architecture Feature Issues,Runtime Issues,Security Issues,158,0.4808
+2023/8/30,2023/8/31,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,64,0.6701
+2023/8/29,2023/11/27,89,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,67,0.0707
+2023/8/27,2023/9/1,4,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,4,0
+2023/8/24,2023/8/31,7,External Dependency Issues,Compiler Frontend Issues,Security Issues,16,0
+2023/8/22,2023/8/23,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,13,0
+2023/8/21,2023/8/25,3,Architecture Feature Issues,Compiler Backend Issues,Performance Issues,61,0.0908
+2023/8/18,2023/8/21,2,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,20,0.5564
+2023/8/18,2023/8/18,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,32,0.6094
+2023/8/17,2023/8/17,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,17,0
+2023/8/17,2023/8/30,13,External Dependency Issues,Compiler Backend Issues,Wrong Output,11,0
+2023/8/15,2023/8/16,1,Compiler Infrastructure Issues,Compiler Backend Issues,Compatibility Issues,168,0.2162
+2023/8/14,2023/8/15,0,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,15,0
+2023/8/14,2023/8/15,0,Architecture Feature Issues,Runtime Issues,Wrong Output,6,0.3815
+2023/8/13,2023/8/22,8,External Dependency Issues,Compiler Midend Issues,Wrong Output,15,0
+2023/8/12,2023/8/15,2,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,9,0.0849
+2023/8/10,2023/8/17,6,External Dependency Issues,Compiler Frontend Issues,Wrong Output,78,0.7867
+2023/8/10,2023/8/14,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Compatibility Issues,24,0.3098
+2023/8/8,2023/8/11,2,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,10,0
+2023/8/7,2023/8/10,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,35,0.3429
+2023/8/7,2023/8/7,0,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,408,0.6596
+2023/8/4,2023/10/26,83,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,69,0.4998
+2023/8/3,2023/8/7,4,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,26,0.7673
+2023/8/2,2023/8/3,1,Compiler Infrastructure Issues,Compiler Backend Issues,Compatibility Issues,56,0.7064
+2023/8/2,2023/8/3,1,Compiler Infrastructure Issues,Compiler Midend Issues,Compatibility Issues,6,0.0633
+2023/7/31,2023/9/5,35,Architecture Feature Issues,Compiler Midend Issues,Development Issues,557,0.2292
+2023/7/31,2023/8/2,1,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,188,0.847
+2023/7/31,2023/8/1,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,15,0
+2023/7/27,2023/7/28,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,53,0.8907
+2023/7/27,2023/7/29,2,Compiler Infrastructure Issues,Compiler Frontend Issues,Wrong Output,3,0
+2023/7/25,2024/7/17,358,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,66,0.1714
+2023/7/25,2023/8/2,8,External Dependency Issues,Compiler Frontend Issues,Wrong Output,33,0.9033
+2023/7/22,2023/8/2,11,External Dependency Issues,Runtime Issues,Wrong Output,29,0.4697
+2023/7/19,2023/12/1,135,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,34,0.6193
+2023/7/17,2023/7/19,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,97,0.4228
+2023/7/17,2023/7/18,1,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,6,0.1585
+2023/7/7,2023/7/10,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,55,0.2515
+2023/7/5,2025/1/7,551,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,44,0.2647
+2023/7/4,2023/7/6,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,2,0.3457
+2023/7/3,2023/7/25,22,External Dependency Issues,Runtime Issues,Wrong Output,11,0.5763
+2023/6/29,2023/6/29,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,153,0.5042
+2023/6/28,2023/6/29,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,4,0
+2023/6/27,2023/8/2,35,Architecture Feature Issues,Compiler Backend Issues,Development Issues,10,0
+2023/6/27,2024/7/26,394,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,73,0.6509
+2023/6/26,2023/8/14,48,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,23,0.2244
+2023/6/18,2023/9/1,74,Architecture Feature Issues,Compiler Backend Issues,Compatibility Issues,23,0
+2023/6/14,2023/6/14,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,19,0
+2023/6/13,2023/8/21,68,Architecture Feature Issues,Runtime Issues,Wrong Output,52,0.5114
+2023/6/12,2023/7/19,36,Architecture Feature Issues,Compiler Backend Issues,Compatibility Issues,28,0.1233
+2023/5/23,2023/5/29,5,External Dependency Issues,Compiler Backend Issues,Wrong Output,201,0.9706
+2023/5/17,2023/5/17,0,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,3,0.1304
+2023/5/16,2024/7/19,429,Architecture Feature Issues,Compiler Frontend Issues,Compatibility Issues,122,0.2752
+2023/5/15,2023/5/16,1,Compiler Infrastructure Issues,Compiler Frontend Issues,Undefined Behavior,68,0.4155
+2023/5/15,2023/5/15,0,Compiler Infrastructure Issues,Compiler Midend Issues,Undefined Behavior,38,0.7139
+2023/5/7,2024/8/12,463,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,52,0.8057
+2023/5/5,2024/7/22,443,Architecture Feature Issues,Runtime Issues,Wrong Output,14,0
+2023/5/5,2023/5/11,5,External Dependency Issues,Compiler Backend Issues,Development Issues,8,0
+2023/5/3,2023/8/16,104,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,489,0.5084
+2023/4/30,2023/4/30,0,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,29,0.896
+2023/4/1,2023/4/2,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Wrong Output,8,0.1772
+2023/3/29,2023/4/4,5,External Dependency Issues,Compiler Backend Issues,Wrong Output,84,0
+2023/3/20,2023/3/21,0,Compiler Infrastructure Issues,Compiler Backend Issues,Compatibility Issues,32,0.4296
+2023/3/14,2023/3/28,13,External Dependency Issues,Compiler Midend Issues,Wrong Output,91,0
+2023/3/13,2023/4/4,21,External Dependency Issues,Runtime Issues,Wrong Output,11,0.6823
+2023/3/9,2023/3/10,1,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,8,0.0393
+2023/3/1,2023/9/5,187,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,14,0
+2023/2/20,2023/2/27,6,External Dependency Issues,Compiler Frontend Issues,Wrong Output,10,0
+2023/2/8,2023/2/9,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,99,0.5191
+2023/2/8,2023/2/8,0,Compiler Infrastructure Issues,Runtime Issues,Wrong Output,28,0.7644
+2023/2/8,2023/2/16,8,External Dependency Issues,Compiler Midend Issues,Wrong Output,96,0.8224
+2023/2/3,2023/2/3,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,33,0.9649
+2023/2/2,2023/2/5,3,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,15,0.8728
+2023/1/31,2023/2/5,5,External Dependency Issues,Compiler Backend Issues,Wrong Output,722,0.7971
+2023/1/13,2023/1/13,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,23,0.8914
+2022/12/13,2023/3/29,106,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,10,0
+2022/12/8,2023/2/10,64,Architecture Feature Issues,Runtime Issues,Wrong Output,64,0.0218
+2022/12/6,2022/12/8,2,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,10,0.1425
+2022/12/6,2023/2/3,59,Architecture Feature Issues,Compiler Backend Issues,Development Issues,24,0.0132
+2022/12/5,2023/1/10,35,Architecture Feature Issues,Compiler Backend Issues,Development Issues,25,0.4123
+2022/11/29,2022/12/7,7,External Dependency Issues,Runtime Issues,Wrong Output,27,0.2656
+2022/11/22,2022/11/27,4,Compiler Infrastructure Issues,Compiler Frontend Issues,Compatibility Issues,4,0.1777
+2022/11/22,2022/11/22,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,12,0.6139
+2022/11/22,2022/11/29,6,External Dependency Issues,Compiler Backend Issues,Wrong Output,52,0.4554
+2022/11/16,2022/11/16,0,Compiler Infrastructure Issues,Compiler Backend Issues,Security Issues,150,0.5201
+2022/11/14,2022/11/16,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,8,0
+2022/11/11,2023/7/24,255,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,26,0.3888
+2022/11/5,2022/11/7,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,76,0.8789
+2022/10/27,2022/11/14,17,External Dependency Issues,Compiler Backend Issues,Wrong Output,102,0.8456
+2022/10/19,2023/9/21,336,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,40,0.7453
+2022/10/14,2022/11/22,38,Architecture Feature Issues,Compiler Midend Issues,Development Issues,10,0
+2022/9/27,2023/3/14,167,Architecture Feature Issues,Compiler Backend Issues,Undefined Behavior,214,0.0902
+2022/9/26,2022/9/28,1,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,17,0.3981
+2022/9/6,2024/4/2,574,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,77,0.3549
+2022/8/31,2023/5/17,259,Architecture Feature Issues,Runtime Issues,Compatibility Issues,15,0
+2022/8/26,2022/9/1,5,External Dependency Issues,Runtime Issues,Wrong Output,21,0.6518
+2022/8/23,2022/8/26,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,36,0.5586
+2022/8/13,2022/8/16,3,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,33,0.9729
+2022/8/12,2022/8/12,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,1,0
+2022/8/11,2022/8/23,12,External Dependency Issues,Compiler Backend Issues,Wrong Output,34,0
+2022/8/10,2022/8/11,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,19,0
+2022/8/3,2022/8/5,1,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,32,0.6855
+2022/7/26,2023/1/18,175,Architecture Feature Issues,Runtime Issues,Wrong Output,11,0.1376
+2022/7/22,2024/9/4,775,Architecture Feature Issues,Compiler Frontend Issues,Development Issues,5,0
+2022/7/15,2022/7/15,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,51,0.8889
+2022/7/13,2022/12/23,162,Architecture Feature Issues,Runtime Issues,Wrong Output,58,0.4738
+2022/6/30,2024/7/18,748,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,11,0
+2022/6/30,2024/7/18,748,Architecture Feature Issues,Compiler Midend Issues,Development Issues,17,0
+2022/6/30,2024/7/18,748,Architecture Feature Issues,Runtime Issues,Wrong Output,10,0
+2022/6/30,2024/7/18,748,Architecture Feature Issues,Runtime Issues,Undefined Behavior,33,0.4531
+2022/6/30,2024/7/18,748,Architecture Feature Issues,Compiler Backend Issues,Undefined Behavior,43,0
+2022/6/24,2022/6/25,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,4,0
+2022/6/19,2022/6/20,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,103,0.7672
+2022/6/13,2024/11/28,899,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,54,0.9809
+2022/6/10,2022/6/14,4,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,11,0
+2022/6/8,2022/6/16,7,External Dependency Issues,Compiler Midend Issues,Compatibility Issues,6,0
+2022/5/19,2022/6/30,41,Architecture Feature Issues,Runtime Issues,Wrong Output,7,0.0026
+2022/5/19,2022/5/31,12,External Dependency Issues,Compiler Backend Issues,Wrong Output,39,0.9291
+2022/5/18,2022/5/26,7,External Dependency Issues,Runtime Issues,Security Issues,2,0
+2022/5/16,2022/5/16,0,Compiler Infrastructure Issues,Compiler Frontend Issues,Development Issues,98,0.7445
+2022/5/13,2022/6/13,30,Architecture Feature Issues,Compiler Midend Issues,Compatibility Issues,12,0
+2022/5/7,2022/5/7,0,Architecture Feature Issues,Runtime Issues,Development Issues,11,0.0997
+2022/5/5,2022/5/5,0,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,29,0
+2022/4/23,2022/4/24,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,25,0
+2022/4/21,2022/4/26,4,External Dependency Issues,Compiler Midend Issues,Security Issues,76,0.9419
+2022/4/11,2022/4/26,15,External Dependency Issues,Compiler Backend Issues,Wrong Output,3,0
+2022/4/8,2022/4/11,2,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,44,0.3769
+2022/4/8,2022/6/2,55,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,61,0.2958
+2022/4/7,2022/4/26,18,External Dependency Issues,Compiler Backend Issues,Development Issues,82,0.6392
+2022/3/30,2022/4/11,12,External Dependency Issues,Compiler Backend Issues,Wrong Output,82,0.8688
+2022/3/21,2022/3/21,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,5,0
+2022/3/20,2022/4/6,17,External Dependency Issues,Runtime Issues,Wrong Output,5,0
+2022/3/14,2022/3/16,2,Compiler Infrastructure Issues,Compiler Midend Issues,Compatibility Issues,70,0.5951
+2022/3/8,2022/3/8,0,Architecture Feature Issues,Compiler Backend Issues,Development Issues,83,0.249
+2022/3/3,2022/3/4,1,Architecture Feature Issues,Compiler Backend Issues,Development Issues,24,0.0674
+2022/2/27,2022/2/28,1,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,43,0.9098
+2022/2/27,2022/2/27,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,14,0.2895
+2022/2/17,2022/2/23,5,External Dependency Issues,Runtime Issues,Wrong Output,57,0.447
+2022/2/14,2022/2/28,14,External Dependency Issues,Compiler Midend Issues,Wrong Output,27,0.3183
+2022/2/14,2022/2/15,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,8,0
+2022/2/12,2022/2/21,8,External Dependency Issues,Compiler Backend Issues,Wrong Output,63,0.8153
+2022/2/11,2022/2/15,3,Compiler Infrastructure Issues,Compiler Frontend Issues,Performance Issues,14,0
+2022/2/8,2022/3/29,48,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,125,0.4464
+2022/2/4,2022/2/4,0,Compiler Infrastructure Issues,Compiler Midend Issues,Performance Issues,12,0
+2022/2/2,2022/2/2,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,25,0.6166
+2022/2/1,2022/2/2,1,Compiler Infrastructure Issues,Compiler Backend Issues,Wrong Output,803,0.4746
+2022/1/5,2022/1/25,19,External Dependency Issues,Compiler Midend Issues,Development Issues,50,0.3012
+2021/12/28,2023/3/14,441,Architecture Feature Issues,Compiler Backend Issues,Undefined Behavior,47,0.2251
+2021/12/26,2022/1/4,9,External Dependency Issues,Compiler Midend Issues,Wrong Output,45,0
+2021/12/16,2021/12/22,5,External Dependency Issues,Compiler Backend Issues,Wrong Output,14,0
+2021/12/11,2021/12/11,0,Compiler Infrastructure Issues,Compiler Midend Issues,Development Issues,85,0.9439
+2021/11/18,2021/12/18,30,Architecture Feature Issues,Compiler Backend Issues,Development Issues,27,0.2064
+2021/11/11,2021/12/13,32,Architecture Feature Issues,Runtime Issues,Wrong Output,83,0.3833
+2021/10/13,2021/10/14,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,86,0.4179
+2021/9/15,2021/10/26,41,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,119,0.548
+2021/8/24,2021/9/7,14,External Dependency Issues,Compiler Backend Issues,Security Issues,99,0.8462
+2021/8/3,2021/11/27,115,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,217,0.3283
+2021/7/25,2023/1/20,543,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,688,0.2121
+2021/7/24,2021/11/27,125,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,115,0.3411
+2021/6/23,2024/7/19,1121,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,80,0.501
+2021/6/17,2022/1/6,202,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,5,0
+2021/6/6,2021/6/11,4,External Dependency Issues,Compiler Backend Issues,Wrong Output,26,0.5067
+2021/5/31,2022/5/10,344,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,18,0.2564
+2021/4/28,2021/6/17,49,Architecture Feature Issues,Compiler Midend Issues,Security Issues,53,0.4729
+2021/4/28,2021/6/17,50,Architecture Feature Issues,Runtime Issues,Wrong Output,57,0.1265
+2021/4/22,2021/4/22,0,Compiler Infrastructure Issues,Compiler Backend Issues,Development Issues,42,0.8237
+2021/4/1,2021/4/9,8,External Dependency Issues,Compiler Frontend Issues,Development Issues,3,0
+2021/3/18,2021/5/7,49,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,205,0.1085
+2021/3/15,2022/1/19,310,Architecture Feature Issues,Compiler Backend Issues,Security Issues,105,0.0984
+2021/3/11,2021/3/15,3,Compiler Infrastructure Issues,Runtime Issues,Performance Issues,10,0
+2021/3/9,2021/4/29,50,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,14,0.4715
+2021/3/9,2021/3/31,21,External Dependency Issues,Compiler Backend Issues,Wrong Output,60,0
+2021/2/9,2021/2/16,6,External Dependency Issues,Compiler Backend Issues,Wrong Output,90,0.3929
+2021/2/5,2021/2/13,7,External Dependency Issues,Compiler Frontend Issues,Wrong Output,118,0.8713
+2021/2/4,2021/2/13,8,External Dependency Issues,Compiler Backend Issues,Wrong Output,21,0.3439
+2021/1/30,2021/2/3,4,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,19,0.2326
+2020/10/20,2023/8/1,1015,Compiler Infrastructure Issues,Compiler Midend Issues,Wrong Output,14,0.5818
+2020/8/28,2024/10/2,1496,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,105,0
+2020/8/20,2020/8/20,0,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,24,0.8822
+2020/7/23,2020/7/27,3,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,27,0.4299
+2020/6/14,2020/6/19,5,External Dependency Issues,Compiler Backend Issues,Development Issues,12,0.3544
+2020/3/26,2020/7/9,104,Architecture Feature Issues,Runtime Issues,Wrong Output,70,0.571
+2020/3/25,2020/3/28,2,Compiler Infrastructure Issues,Compiler Backend Issues,Performance Issues,85,0.8719
+2020/2/9,2021/12/13,673,Architecture Feature Issues,Runtime Issues,Wrong Output,61,0
+2020/1/30,2020/2/3,3,Architecture Feature Issues,Compiler Backend Issues,Performance Issues,7,0.0003
+2019/11/28,2019/12/4,6,External Dependency Issues,Compiler Backend Issues,Security Issues,58,0.6163
+2019/9/25,2019/11/28,63,Architecture Feature Issues,Compiler Midend Issues,Wrong Output,110,0.3779
+2019/9/20,2020/7/7,291,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,48,0.6307
+2019/9/16,2020/7/9,297,Architecture Feature Issues,Runtime Issues,Wrong Output,43,0.6077
+2019/9/16,2020/7/29,317,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,171,0.2139
+2019/9/14,2019/11/28,75,Architecture Feature Issues,Runtime Issues,Wrong Output,56,0.2378
+2019/8/19,2019/11/28,101,Architecture Feature Issues,Runtime Issues,Development Issues,41,0
+2019/8/13,2020/7/9,330,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,522,0.0802
+2019/8/12,2019/11/28,107,Architecture Feature Issues,Compiler Backend Issues,Development Issues,118,0.542
+2019/8/2,2020/7/16,348,Architecture Feature Issues,Runtime Issues,Wrong Output,42,0.4362
+2019/8/1,2019/11/28,118,Architecture Feature Issues,Compiler Backend Issues,Wrong Output,118,0.289
+2019/7/30,2019/11/28,121,Architecture Feature Issues,Compiler Frontend Issues,Wrong Output,67,0.3852
+2019/5/30,2019/11/28,181,Architecture Feature Issues,Runtime Issues,Wrong Output,67,0.0821
+2019/4/29,2019/7/30,91,Architecture Feature Issues,Compiler Frontend Issues,Development Issues,29,0.0824
+2019/1/16,2019/1/31,15,External Dependency Issues,Compiler Backend Issues,Wrong Output,111,0.917
+2018/6/11,2019/7/30,413,Architecture Feature Issues,Compiler Backend Issues,Development Issues,28,0.2413
+2020/2/16,2022/4/13,787,Architecture Feature Issues,Runtime Issues,Development Issues,9,0
